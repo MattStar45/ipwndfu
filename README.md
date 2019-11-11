@@ -4,6 +4,8 @@
 
 **Read [disclaimer](#disclaimer) before using this software.*
 
+## about this fork
+* this fork replaces the iBSS shellcode file (which is used for flashing alloc8) to an older version to fix an Assertion Error.
 
 ## checkm8
 
